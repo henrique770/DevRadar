@@ -1,0 +1,19 @@
+.alignImg {
+  display: flex;
+  justify-content: left;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 30px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+img {
+  max-width: 300px;
+}
+
+@media (max-width: 650px) {
+  .alignImg {
+    display: flex;
+    justify-content: center;
+  }
+}
