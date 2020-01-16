@@ -38,9 +38,9 @@ now you should run `yarn start` or `npm start`
 
 ## Front end mobile execution
 
-You need install expo in your machine run:
+You need install expo in your machine 
 
-`yarn global add expo-cli` or `npm install expo-cli --global`
+run `yarn global add expo-cli` or `npm install expo-cli --global`
 
 #### obs ( when use yarn installation ):
 To use the installed packages, the install location has to be added to the PATH environment variable of your shell. For bash for example, you can add this line at the end of your .bashrc:
