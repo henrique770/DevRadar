@@ -4,7 +4,7 @@
 <img width=350 src="https://raw.githubusercontent.com/henrique770/DevRadar/master/web/src/assets/devradar_logo.png">
 </p>
 
-[![DevRadar](https://i.ibb.co/dcZyWws/https-i-ytimg-com-vi-ANvlxd2-HYts-maxresdefault.jpg)](https://www.youtube.com/watch?v=ANvlxd2HYts&feature=youtu.be "DevRadar")
+[![DevRadar](https://i.ibb.co/dcZyWws/https-i-ytimg-com-vi-ANvlxd2-HYts-maxresdefault.jpg)](https://www.youtube.com/watch?v=2vURiRPex60&feature=youtu.be "DevRadar")
 
 ## API installation and execution
 
