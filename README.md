@@ -6,7 +6,7 @@
 
 [![DevRadar](https://i.ibb.co/dcZyWws/https-i-ytimg-com-vi-ANvlxd2-HYts-maxresdefault.jpg)](https://www.youtube.com/watch?v=2vURiRPex60&feature=youtu.be "DevRadar")
 
-## API installation and execution
+## API installation
 
 Clone this repository;
 
@@ -30,7 +30,7 @@ mongoose.connect(
 
 8. run `yarn dev` to start the server.
 
-## Front end web execution
+## Front end web
 
 Enter the folder running `cd web`;
 
@@ -38,7 +38,7 @@ run `yarn` or `npm install` to install the dependencies;
 
 now you should run `yarn start` or `npm start`
 
-## Front end mobile execution
+## Front end mobile
 
 You need install expo in your machine 
 
